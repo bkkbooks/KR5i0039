@@ -1,0 +1,49 @@
+canonical_identifier: bkk:krp/KR5i0039/CK-KZ/v1
+canonical_location: https://kanripo.org/bkk/KR5i0039/CK-KZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 入藥鏡
+  date: '2015-08-29 17:52:24.585874'
+  source:
+    repository: kanripo
+    path: KR5i0039
+  image_base_urls:
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+  edition:
+    short: CK-KZ
+    label: 【重刊道藏輯要】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 1, filename: KR5i0039_001-CK-KZ.yaml, hash: 'sha256:c246fe386f64d8343254a09335ae021cd4bfee9c1aca73f4b6d6c66939f6c299'}
+  - {seq: 2, filename: KR5i0039_002-CK-KZ.yaml, hash: 'sha256:ff707d64d0baa33016b04e1fcc2e6bf8e27a4b7d35ceda26cac6f324730577dd'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR5i0039_001-CK-KZ.markers.yaml, hash: 'sha256:36918ef4fdeb020d9d500bdff70dca3994b89547fbd04a910d8ecfa16125dcfe'}
+  - {seq: 2, role: markers, filename: assets/KR5i0039_002-CK-KZ.markers.yaml, hash: 'sha256:08b0ffc0201e9945bbdd48c918c3b50e194a73697a0b8a61adf68e4c1f605db3'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: CK-KZ_KR5i0039_01p001a
+    span:
+    - body
+    - 0
+    - 601
+  label: juan 001
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: CK-KZ_KR5i0039_02p001a
+    span:
+    - body
+    - 0
+    - 16619
+  label: juan 002
+  type: section
+  level: 1
+hash: sha256:87c293d87cf4142b442b960731235c57840ce75bb9b7d4cb1dbe79e6736c0285
