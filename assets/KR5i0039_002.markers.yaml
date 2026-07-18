@@ -4878,6 +4878,7 @@ markers:
       ', id: KR5i0039_krp_002-bkkkrnewl837}
   - {type: line-break, offset: 16119, content: '', id: CK-KZ_KR5i0039_02p039a02}
   - {type: punctuation, offset: 16119, content: (, id: KR5i0039_krp_002-bkkpn1}
+  - {type: voice, offset: 16119, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 16120, content: ), id: KR5i0039_krp_002-bkkpn2}
   - {type: substitution, offset: 16123, original: 掛, replacement: 挂, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16851}}
   - {type: indent, offset: 16126, content: 　, id: KR5i0039_krp_002-bkkind781}
@@ -5066,4 +5067,4 @@ markers:
   - {type: variant, offset: 16619, length: 0, content: '', YP-C: 崔公入藥鏡注解終}
   - {type: page-break, offset: 16619, content: '', id: YP-C_KR5i0039_11xuji-05-0042b}
   back: []
-hash: sha256:afa8dff16e1fd9bee3c97a19795ef74eea4f163969131de3d27421ed11267239
+hash: sha256:0eba9261bc6013e90cf85f3bdf52d88a72f9fc5d163a055818002ece6e40cc5a
